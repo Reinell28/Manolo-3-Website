@@ -1,2 +1,2 @@
-# Manolo-3-Website
-Sample Website
+# ALSWebsite
+A Website for ALS
